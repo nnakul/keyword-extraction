@@ -9,4 +9,9 @@ Keywords of a piece of information can be understood as a set of words such that
   
 ## Comparison
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR1.png" width = '380' height = '380'> <img src="SAMPLE_RUNS/WE1.png" width = '380' height = '380'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR1.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE1.png" width = '380' height = '340'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR3.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE3.png" width = '380' height = '340'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR4.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE4.png" width = '380' height = '340'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR5.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE5.png" width = '380' height = '340'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR6.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE6.png" width = '380' height = '340'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR7.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE7.png" width = '380' height = '340'><br>
