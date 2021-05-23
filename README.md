@@ -9,4 +9,4 @@ Keywords of a piece of information can be understood as a set of words such that
   
 ## Comparison
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR1.png" width = '450' height = '400'> <img src="SAMPLE_RUNS/WE1.png" width = '450' height = '400'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR1.png" width = '380' height = '400'> <img src="SAMPLE_RUNS/WE1.png" width = '380' height = '400'>
