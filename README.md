@@ -22,5 +22,6 @@ The word-embeddings method performs undoubtedly better. Note that here the numbe
 ## Improvements
 None of the implementations deals with the phrases and collocations. For example in the results for the document *TEXTS/TEXT5.txt* given by *KEYWORDS_EXTRACTION_WE.py*, *World* and *Cup* are stated as two distinct keywords, whereas instead the collocation *World Cup* should have been treated as one keyword. Many techniques can be used to identify phrases in a text, like a data driven approach in which the phrases are formed using unigram and bigram counts, using the following formula.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/66432513/119267765-96785f80-bc0d-11eb-96dd-51030f6f13db.png" width = '450' height = '75'> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/66432513/119267765-96785f80-bc0d-11eb-96dd-51030f6f13db.png" width = '450' height = '75'>
+
 The *δ* is used as a *discounting coefficient* and prevents too many phrases consisting of very infrequent words to be formed. The bigrams with score above the chosen threshold are then used as phrases. These phrases can hence be incorporated into the pre-existing algorithms to deal with phrases as keywords.
