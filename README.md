@@ -17,7 +17,7 @@ The results in the left column are of *KEYWORDS_EXTRACTION_PR.py* and in the rig
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR6.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE6.png" width = '380' height = '340'><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SAMPLE_RUNS/PR7.png" width = '380' height = '340'> <img src="SAMPLE_RUNS/WE7.png" width = '380' height = '340'><br>
   
-The word-embeddings method performs undoubtedly better. Note that here the number of keywords extracted might not exactly be the number entered as input, naturally as the result of the algorithm previously decribed.
+The word-embeddings method performs undoubtedly better. Note that here the number of keywords extracted might not exactly be the number entered as input, naturally as the result of the underlying algorithm.
   
 ## Improvements
 None of the implementations deals with the phrases and collocations. For example in the results for the document *TEXTS/TEXT5.txt* given by *KEYWORDS_EXTRACTION_WE.py*, *World* and *Cup* are stated as two distinct keywords, whereas instead the collocation *World Cup* should have been treated as one keyword. Many techniques can be used to identify phrases in a text, like a data driven approach in which the phrases are formed using unigram and bigram counts, using the following formula.
